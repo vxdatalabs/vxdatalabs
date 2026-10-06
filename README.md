@@ -1,9 +1,6 @@
 # vxdatalabs
 
-Technical Program Manager by day, builder by habit.
-15+ years delivering enterprise programs, and on the side I write the tools I
-wish existed for markets and operations: alerts, scanners and chart analysis.
-Python first, shipped and running, not just notebooks.
+TPM who builds. I got tired of waiting for the right tools, so I wrote them: alerts that never sleep, scanners that rank the noise, and a vision model that reads charts. Python first, shipped and running.
 
 ## Projects
 
